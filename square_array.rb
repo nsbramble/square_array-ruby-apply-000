@@ -4,5 +4,4 @@ def square_array(array)
     array.each { |element| squared_array << element ** 2 }
     squared_array
 end
-  puts square_array
-  puts squared_array
+  
